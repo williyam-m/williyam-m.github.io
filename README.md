@@ -1,6 +1,6 @@
 ### portfolio
 
-Live: https://williyam-m.github.io/portfolio/
+Live: https://williyam-m.github.io/
 
 
 
